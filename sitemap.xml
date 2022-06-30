@@ -14,11 +14,19 @@
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://enricomartello.github.io/publications/unict_seminar/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://enricomartello.github.io/projects/contributions/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://enricomartello.github.io/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://enricomartello.github.io/publications/6bit/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/publications/grassmannization/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://enricomartello.github.io/projects/contributions/shields-docker/</loc>
@@ -28,6 +36,36 @@
     <loc>https://enricomartello.github.io/projects/contributions/schema-org/</loc>
     <lastmod>2020-01-07T17:08:21+00:00</lastmod>
     <priority>0.8</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/demo/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/learning-at-scale/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/software/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/teaching/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/berry-phase/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/metamaterials/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/non-hermitian/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/physics/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/seminar/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enricomartello.github.io/tags/docker/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
@@ -48,8 +86,17 @@
     <loc>https://enricomartello.github.io/tags/rest-apis/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
   </url><url>
-    <loc>https://enricomartello.github.io/tags/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
+    <loc>https://enricomartello.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/ising-model/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/numerics/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/proceedings/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enricomartello.github.io/tags/atlassian-ecosystem/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
@@ -75,18 +122,6 @@
     <loc>https://enricomartello.github.io/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://enricomartello.github.io/tags/apache/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
@@ -118,8 +153,6 @@
     <loc>https://enricomartello.github.io/tags/bash/shell/</loc>
   </url><url>
     <loc>https://enricomartello.github.io/tags/bitbucket/</loc>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/ci/cd-pipelines/</loc>
   </url><url>
     <loc>https://enricomartello.github.io/tags/confluence/</loc>
   </url><url>

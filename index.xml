@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://enricomartello.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Measuring the adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
+      <link>https://enricomartello.github.io/publications/unict_seminar/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/unict_seminar/</guid>
+      <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!
+We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
+    </item>
+    
+    <item>
       <title>Atlassian Deployment Triggers</title>
       <link>https://enricomartello.github.io/projects/contributions/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17,13 +27,22 @@
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://enricomartello.github.io/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Demo of Graide: AI Powered Assistive Grading Engine</title>
+      <link>https://enricomartello.github.io/publications/6bit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://enricomartello.github.io/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
-Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>https://enricomartello.github.io/publications/6bit/</guid>
+      <description>I have been helping people at 6bit testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback to be given to students. Check how it works!
+I have been demo-ing at L@S2022 where the issues related to teaching and learning at scale have been discussed.</description>
+    </item>
+    
+    <item>
+      <title>Grassmannization of the 3D Ising Model</title>
+      <link>https://enricomartello.github.io/publications/grassmannization/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/grassmannization/</guid>
+      <description>The application of Feynman’s diagrammatic technique to classical link models with local constraints seems impossible due to (i) the absence of a free Gaussian theory on top of which the perturbative expansion can be constructed, and (ii) Dyson’s collapse argument, rendering the perturbative expansion divergent. However, we show for the classical 3D Ising model how both problems can be circumvented using a Grassmann representation. This makes it possible to obtain an expansion of the spin correlation function and the magnetic susceptibility in terms of the inverse temperature in the thermodynamic limit, through which the values for the critical temperature and critical index are evaluated within 1.</description>
     </item>
     
     <item>

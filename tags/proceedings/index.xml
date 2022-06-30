@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proceedings on Enrico Martello</title>
+    <link>https://enricomartello.github.io/tags/proceedings/</link>
+    <description>Recent content in Proceedings on Enrico Martello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/proceedings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grassmannization of the 3D Ising Model</title>
+      <link>https://enricomartello.github.io/publications/grassmannization/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/grassmannization/</guid>
+      <description>The application of Feynman’s diagrammatic technique to classical link models with local constraints seems impossible due to (i) the absence of a free Gaussian theory on top of which the perturbative expansion can be constructed, and (ii) Dyson’s collapse argument, rendering the perturbative expansion divergent. However, we show for the classical 3D Ising model how both problems can be circumvented using a Grassmann representation. This makes it possible to obtain an expansion of the spin correlation function and the magnetic susceptibility in terms of the inverse temperature in the thermodynamic limit, through which the values for the critical temperature and critical index are evaluated within 1.</description>
+    </item>
+    
+  </channel>
+</rss>
