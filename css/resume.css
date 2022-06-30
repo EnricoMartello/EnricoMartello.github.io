@@ -35,6 +35,7 @@ h1 {
 
 h2 {
   font-size: 3.5rem;
+  color: #84241F;
 }
 
 .subheading {
@@ -42,10 +43,11 @@ h2 {
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
   font-size: 1.35rem;
+  color: #84241F;
 }
 
 .list-social-icons a {
-  color: #507DBC;
+  color: #343a40;
 }
 
 .list-social-icons a:hover {
@@ -147,11 +149,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #034C3C !important;
+  color: #84241F !important;
 }
 
 a {
-  color: #034C3C;
+  color: #84241F;
 }
 
 a:hover,
