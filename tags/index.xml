@@ -44,47 +44,29 @@
     </item>
     
     <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://enricomartello.github.io/tags/atlassian-ecosystem/</link>
+      <title>Google Colab</title>
+      <link>https://enricomartello.github.io/tags/google-colab/</link>
       <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
       
-      <guid>https://enricomartello.github.io/tags/atlassian-ecosystem/</guid>
+      <guid>https://enricomartello.github.io/tags/google-colab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BOSH</title>
-      <link>https://enricomartello.github.io/tags/bosh/</link>
+      <title>Kaggle</title>
+      <link>https://enricomartello.github.io/tags/kaggle/</link>
       <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
       
-      <guid>https://enricomartello.github.io/tags/bosh/</guid>
+      <guid>https://enricomartello.github.io/tags/kaggle/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>https://enricomartello.github.io/tags/devops/</link>
+      <title>Machine Learning</title>
+      <link>https://enricomartello.github.io/tags/machine-learning/</link>
       <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
       
-      <guid>https://enricomartello.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://enricomartello.github.io/tags/java/</link>
-      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monit</title>
-      <link>https://enricomartello.github.io/tags/monit/</link>
-      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/monit/</guid>
+      <guid>https://enricomartello.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -94,15 +76,6 @@
       <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST APIs</title>
-      <link>https://enricomartello.github.io/tags/rest-apis/</link>
-      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/rest-apis/</guid>
       <description></description>
     </item>
     
@@ -154,9 +127,18 @@
     <item>
       <title>Data visualisation</title>
       <link>https://enricomartello.github.io/tags/data-visualisation/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/data-visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://enricomartello.github.io/tags/pandas/</link>
+      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/pandas/</guid>
       <description></description>
     </item>
     
@@ -238,24 +220,6 @@
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/web-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bash/shell</title>
-      <link>https://enricomartello.github.io/tags/bash/shell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xml/xslt</title>
-      <link>https://enricomartello.github.io/tags/xml/xslt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/xml/xslt/</guid>
       <description></description>
     </item>
     

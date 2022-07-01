@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Enrico Martello</title>
-    <link>https://enricomartello.github.io/tags/python/</link>
-    <description>Recent content in Python on Enrico Martello</description>
+    <title>Kaggle on Enrico Martello</title>
+    <link>https://enricomartello.github.io/tags/kaggle/</link>
+    <description>Recent content in Kaggle on Enrico Martello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/kaggle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whale recognition</title>
       <link>https://enricomartello.github.io/projects/creations/ml_whale/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://enricomartello.github.io/projects/creations/ml_whale/</guid>
       <description>This was the final exam of the MPAGS Machine Learning course (access the 2021-2022 course pages to see the statement of my assessment being submitted and passed). I was inspired by this Kaggle competition, and I decided to try and create a Machine Learning algorithm capable of identifying marine mammals just by a picture of the dorsal fin. Since I am a beginner (or at least I was at the time), I used this dataset, that consists of the already resized and rotated images of the original dataset (hence it is supposedly easier to work with it).</description>
-    </item>
-    
-    <item>
-      <title>Data2map</title>
-      <link>https://enricomartello.github.io/projects/creations/data2map/</link>
-      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/projects/creations/data2map/</guid>
-      <description>My father one day asked me how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap? My first answer was something that sounds like I can easily write down a python script that does that for you. It was not easy! It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job!</description>
     </item>
     
   </channel>

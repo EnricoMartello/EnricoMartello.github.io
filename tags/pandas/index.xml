@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data visualisation on Enrico Martello</title>
-    <link>https://enricomartello.github.io/tags/data-visualisation/</link>
-    <description>Recent content in Data visualisation on Enrico Martello</description>
+    <title>Pandas on Enrico Martello</title>
+    <link>https://enricomartello.github.io/tags/pandas/</link>
+    <description>Recent content in Pandas on Enrico Martello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jan 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data2map</title>
       <link>https://enricomartello.github.io/projects/creations/data2map/</link>

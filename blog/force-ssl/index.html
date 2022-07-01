@@ -131,7 +131,7 @@
 </ul>
 <p>Once you implement SSL certificates on your server you&rsquo;ll want to <strong>require secure connections</strong> using Apache&rsquo;s rewrite module. Now I won&rsquo;t dwell on the creation and signing of certificates, its already well documented.  If your just starting out though,heres a few links I recommend;</p>
 <ul>
-<li><a href="http://www.tc.umn.edu/~brams006/selfsign.html" title="Creating and Signing your own SSL Certificate">Creating self-signed certificates</a> (free, but should only be used internally or for testing, users will; see an &lsquo;Untrusted&quot; warning)</li>
+<li><a href="http://www.tc.umn.edu/~brams006/selfsign.html" title="Creating and Signing your own SSL Certificate">Creating self-signed certificates</a> (free, but should only be used internally or for testing, users will see an &lsquo;Untrusted&quot; warning)</li>
 <li><a href="http://www.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=10&amp;url=http%3A%2F%2Fwww.lsu.edu%2Fpki%2FSSL_Certificate_Apache.pdf&amp;ei=Z8FcSbDRGaCY8gTdk7GHDQ&amp;usg=AFQjCNELddGd6jW1_Dv1X-CaocEVa4rV2A&amp;sig2=FQMNaM_RlhngJW3MSYiQzw" title="Generating a Certificate Signing Request">Requesting a CA Signed certificate</a> (not free, but the final certificate is trusted and seamless for users)</li>
 </ul>
 <p>The second link uses the schools internal CA, you will need to pay a public CA like Entrust or Verisign. <strong>All of this information is aimed at &rsquo;nix or solaris servers running apache</strong>. Why? cause a production windows server is laughable :-p</p>
