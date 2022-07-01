@@ -13,8 +13,17 @@
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/publications/6bit/</guid>
-      <description>I have been helping people at 6bit testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback to be given to students. Check how it works!
+      <description>I have been helping people at 6bit by testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback given to students. Take a look at how it works!
 I have been demo-ing at L@S2022 where the issues related to teaching and learning at scale have been discussed.</description>
+    </item>
+    
+    <item>
+      <title>Data2map</title>
+      <link>https://enricomartello.github.io/projects/creations/data2map/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/projects/creations/data2map/</guid>
+      <description>My father one day asked me how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap? My first answer was something that sounds like I can easily write down a python script that does that for you. It was not easy! It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job!</description>
     </item>
     
   </channel>

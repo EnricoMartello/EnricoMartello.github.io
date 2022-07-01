@@ -44,6 +44,69 @@
     </item>
     
     <item>
+      <title>Atlassian Ecosystem</title>
+      <link>https://enricomartello.github.io/tags/atlassian-ecosystem/</link>
+      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/atlassian-ecosystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOSH</title>
+      <link>https://enricomartello.github.io/tags/bosh/</link>
+      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/bosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://enricomartello.github.io/tags/devops/</link>
+      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://enricomartello.github.io/tags/java/</link>
+      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monit</title>
+      <link>https://enricomartello.github.io/tags/monit/</link>
+      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/monit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://enricomartello.github.io/tags/python/</link>
+      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST APIs</title>
+      <link>https://enricomartello.github.io/tags/rest-apis/</link>
+      <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Berry phase</title>
       <link>https://enricomartello.github.io/tags/berry-phase/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
@@ -89,47 +152,11 @@
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://enricomartello.github.io/tags/docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>Data visualisation</title>
+      <link>https://enricomartello.github.io/tags/data-visualisation/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://enricomartello.github.io/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://enricomartello.github.io/tags/javascript/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSON</title>
-      <link>https://enricomartello.github.io/tags/json/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>node.js</title>
-      <link>https://enricomartello.github.io/tags/node.js/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/node.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST APIs</title>
-      <link>https://enricomartello.github.io/tags/rest-apis/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/rest-apis/</guid>
+      <guid>https://enricomartello.github.io/tags/data-visualisation/</guid>
       <description></description>
     </item>
     
@@ -166,60 +193,6 @@
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/proceedings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://enricomartello.github.io/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOSH</title>
-      <link>https://enricomartello.github.io/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://enricomartello.github.io/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://enricomartello.github.io/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monit</title>
-      <link>https://enricomartello.github.io/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/monit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://enricomartello.github.io/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/python/</guid>
       <description></description>
     </item>
     
@@ -269,83 +242,11 @@
     </item>
     
     <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://enricomartello.github.io/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bamboo</title>
-      <link>https://enricomartello.github.io/tags/bamboo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bash/shell</title>
       <link>https://enricomartello.github.io/tags/bash/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>https://enricomartello.github.io/tags/bitbucket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://enricomartello.github.io/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/confluence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JIRA</title>
-      <link>https://enricomartello.github.io/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jQuery</title>
-      <link>https://enricomartello.github.io/tags/jquery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maven</title>
-      <link>https://enricomartello.github.io/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>https://enricomartello.github.io/tags/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/spring/</guid>
       <description></description>
     </item>
     

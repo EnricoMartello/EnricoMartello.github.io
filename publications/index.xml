@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Demo of Graide: AI Powered Assistive Grading Engine</title>
+      <link>https://enricomartello.github.io/publications/6bit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/6bit/</guid>
+      <description>I have been helping people at 6bit by testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback given to students. Take a look at how it works!
+I have been demo-ing at L@S2022 where the issues related to teaching and learning at scale have been discussed.</description>
+    </item>
+    
+    <item>
       <title>Measuring the adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/unict_seminar/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
@@ -15,16 +25,6 @@
       <guid>https://enricomartello.github.io/publications/unict_seminar/</guid>
       <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!
 We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
-    </item>
-    
-    <item>
-      <title>Demo of Graide: AI Powered Assistive Grading Engine</title>
-      <link>https://enricomartello.github.io/publications/6bit/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/publications/6bit/</guid>
-      <description>I have been helping people at 6bit testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback to be given to students. Check how it works!
-I have been demo-ing at L@S2022 where the issues related to teaching and learning at scale have been discussed.</description>
     </item>
     
     <item>
