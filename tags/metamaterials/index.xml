@@ -6,7 +6,25 @@
     <description>Recent content in Metamaterials on Enrico Martello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/metamaterials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/metamaterials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring the Adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
+      <link>https://enricomartello.github.io/publications/paper_measuring/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/paper_measuring/</guid>
+      <description>In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Mechanical Lattices with Synthetic Interactions</title>
+      <link>https://enricomartello.github.io/publications/paper_synthetic/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/paper_synthetic/</guid>
+      <description>We experimentally engineer synthetic lattice Hamiltonians in our mechanical system, with control over local site energies and loss and gain as well as control over the complex hopping between oscillators. Beyond linear terms, we experimentally demonstrate how this measurement-based feedback approach opens the window to independently introducing nonlinear interaction terms.</description>
+    </item>
+    
     <item>
       <title>Measuring the adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/unict_seminar/</link>
@@ -15,6 +33,24 @@
       <guid>https://enricomartello.github.io/publications/unict_seminar/</guid>
       <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!
 We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
+    </item>
+    
+    <item>
+      <title>Measuring the Adiabatic non-Hermitian Berry Phase in Feedback-Coupled Harmonic Oscillators</title>
+      <link>https://enricomartello.github.io/publications/poster_warwick22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/poster_warwick22/</guid>
+      <description>For the first time since I began my PhD, I was able to spend more time traveling for conferences. In particular, I presented this poster at the Theory of Condensed Matter (TCM) Meeting, at the University of Warwick, then a few weeks later I took part to the conference on Condensed Matter and Quantum Materials (CMQM) organised by the Institute of Physics (IoP) at the University of Bath, and finally I have presented it at the University of Strathclyde, Glasgow, for the conference on Designing Out of Eequilibrium many-body Quantum systems (DesOEQ).</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Mechanical Metamaterials for non-Hermitian Hamiltonians </title>
+      <link>https://enricomartello.github.io/publications/poster_warwick21/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/poster_warwick21/</guid>
+      <description>I presented this poster at the Theory of Condensed Matter (TCM) Meeting, held in Warwick. For more details about this work, take a look at the paper. As it is a large file, it might take some time to download it - be patient :)</description>
     </item>
     
   </channel>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamics on Enrico Martello</title>
+    <link>https://enricomartello.github.io/tags/dynamics/</link>
+    <description>Recent content in Dynamics on Enrico Martello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring the Adiabatic non-Hermitian Berry Phase in Feedback-Coupled Harmonic Oscillators</title>
+      <link>https://enricomartello.github.io/publications/poster_warwick22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/poster_warwick22/</guid>
+      <description>For the first time since I began my PhD, I was able to spend more time traveling for conferences. In particular, I presented this poster at the Theory of Condensed Matter (TCM) Meeting, at the University of Warwick, then a few weeks later I took part to the conference on Condensed Matter and Quantum Materials (CMQM) organised by the Institute of Physics (IoP) at the University of Bath, and finally I have presented it at the University of Strathclyde, Glasgow, for the conference on Designing Out of Eequilibrium many-body Quantum systems (DesOEQ).</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Mechanical Metamaterials for non-Hermitian Hamiltonians </title>
+      <link>https://enricomartello.github.io/publications/poster_warwick21/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/poster_warwick21/</guid>
+      <description>I presented this poster at the Theory of Condensed Matter (TCM) Meeting, held in Warwick. For more details about this work, take a look at the paper. As it is a large file, it might take some time to download it - be patient :)</description>
+    </item>
+    
+  </channel>
+</rss>

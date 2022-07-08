@@ -11,7 +11,7 @@
 
 backend:
   name: github
-  repo: enricomartello/mypersonalpage
+  repo: enricomartello/personal_page
   branch: master
 
 

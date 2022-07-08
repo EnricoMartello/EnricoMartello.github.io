@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Other on Enrico Martello</title>
+    <title>Contributions on Enrico Martello</title>
     <link>https://enricomartello.github.io/projects/contributions/</link>
-    <description>Recent content in Other on Enrico Martello</description>
+    <description>Recent content in Contributions on Enrico Martello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 16:49:15 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 10:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EPS Young Minds Catania</title>
+      <link>https://enricomartello.github.io/projects/contributions/eps/</link>
+      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/projects/contributions/eps/</guid>
+      <description>I collaborated with the EPS Young Minds section Catania in their project involving High School students and Arduino. The goal of the project was to build a network of sensors able to track down pollution levels in different areas of the city, in order to sensitize young people awareness of the problem of pollution, teach them how do sensors work and how do tracking and measuring work.</description>
+    </item>
+    
   </channel>
 </rss>

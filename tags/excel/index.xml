@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel on Enrico Martello</title>
+    <link>https://enricomartello.github.io/tags/excel/</link>
+    <description>Recent content in Excel on Enrico Martello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jan 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data2map</title>
+      <link>https://enricomartello.github.io/projects/creations/data2map/</link>
+      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/projects/creations/data2map/</guid>
+      <description>My father one day asked me how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap? My first answer was something that sounds like I can easily write down a python script that does that for you. It was not easy! It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job!</description>
+    </item>
+    
+  </channel>
+</rss>
