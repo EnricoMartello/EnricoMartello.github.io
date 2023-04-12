@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on Enrico Martello</title>
+    <link>https://enricomartello.github.io/tags/coding/</link>
+    <description>Recent content in Coding on Enrico Martello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2022</title>
+      <link>https://enricomartello.github.io/projects/creations/aoc/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/projects/creations/aoc/</guid>
+      <description>Just by chance, a couple of years ago I came across the Advent of Code, and interesting project that I personally recommend to those who want to challenge themselves in doing some code-related problem solving, or who want to test/improve their knowledge of a given programming language. This year I wanted to deepen my knowledge of C++, hence the poor quality of my code. I will improve for sure!</description>
+    </item>
+    
+  </channel>
+</rss>

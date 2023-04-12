@@ -25,5 +25,14 @@
       <description>This was the final exam of the MPAGS Machine Learning course (access the 2021-2022 course pages to see the statement of my assessment being submitted - and passed). I was inspired by this Kaggle competition, and I decided to try and create a Machine Learning algorithm capable of identifying marine mammals just by a picture of the dorsal fin. Since I am a beginner (or at least I was at the time), I used this dataset, that consists of the already resized and rotated images of the original dataset (hence it is supposedly easier to work with it).</description>
     </item>
     
+    <item>
+      <title>Advent of Code 2022</title>
+      <link>https://enricomartello.github.io/projects/creations/aoc/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/projects/creations/aoc/</guid>
+      <description>Just by chance, a couple of years ago I came across the Advent of Code, and interesting project that I personally recommend to those who want to challenge themselves in doing some code-related problem solving, or who want to test/improve their knowledge of a given programming language. This year I wanted to deepen my knowledge of C++, hence the poor quality of my code. I will improve for sure!</description>
+    </item>
+    
   </channel>
 </rss>

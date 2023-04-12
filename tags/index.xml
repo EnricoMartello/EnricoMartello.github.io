@@ -6,7 +6,115 @@
     <description>Recent content in Tags on Enrico Martello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dimers</title>
+      <link>https://enricomartello.github.io/tags/dimers/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/dimers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metamaterials</title>
+      <link>https://enricomartello.github.io/tags/metamaterials/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/metamaterials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://enricomartello.github.io/tags/paper/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>https://enricomartello.github.io/tags/physics/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association member</title>
+      <link>https://enricomartello.github.io/tags/association-member/</link>
+      <pubDate>Mon, 16 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/association-member/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>https://enricomartello.github.io/tags/culture/</link>
+      <pubDate>Mon, 16 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popularising</title>
+      <link>https://enricomartello.github.io/tags/popularising/</link>
+      <pubDate>Mon, 16 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/popularising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science divulgation</title>
+      <link>https://enricomartello.github.io/tags/science-divulgation/</link>
+      <pubDate>Mon, 16 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/science-divulgation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdventOfCode</title>
+      <link>https://enricomartello.github.io/tags/adventofcode/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/adventofcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://enricomartello.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenge</title>
+      <link>https://enricomartello.github.io/tags/challenge/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>https://enricomartello.github.io/tags/coding/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/tags/coding/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dynamics</title>
       <link>https://enricomartello.github.io/tags/dynamics/</link>
@@ -44,15 +152,6 @@
     </item>
     
     <item>
-      <title>Metamaterials</title>
-      <link>https://enricomartello.github.io/tags/metamaterials/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/metamaterials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>non-Hermitian</title>
       <link>https://enricomartello.github.io/tags/non-hermitian/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
@@ -67,15 +166,6 @@
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/numerics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physics</title>
-      <link>https://enricomartello.github.io/tags/physics/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/physics/</guid>
       <description></description>
     </item>
     
@@ -130,15 +220,6 @@
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/berry-phase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paper</title>
-      <link>https://enricomartello.github.io/tags/paper/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/paper/</guid>
       <description></description>
     </item>
     
@@ -251,29 +332,11 @@
     </item>
     
     <item>
-      <title>Science divulgation</title>
-      <link>https://enricomartello.github.io/tags/science-divulgation/</link>
-      <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/science-divulgation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Synthetic lattices</title>
       <link>https://enricomartello.github.io/tags/synthetic-lattices/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/tags/synthetic-lattices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://enricomartello.github.io/tags/c&#43;&#43;/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     

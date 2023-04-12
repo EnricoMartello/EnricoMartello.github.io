@@ -7,15 +7,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://enricomartello.github.io/projects/contributions/desidus/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://enricomartello.github.io/projects/contributions/</loc>
     <lastmod>2022-07-08T11:53:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/projects/contributions/eps/</loc>
-    <lastmod>2022-07-15T13:50:53+01:00</lastmod>
+    <lastmod>2022-07-19T09:15:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/publications/paper_coexistence/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>https://enricomartello.github.io/publications/paper_measuring/</loc>
     <lastmod>2022-07-08T11:53:33+01:00</lastmod>
@@ -28,7 +38,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://enricomartello.github.io/publications/paper_grassmannization/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -72,6 +82,81 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
+    <loc>https://enricomartello.github.io/projects/creations/aoc/</loc>
+    <lastmod>2023-01-13T09:22:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/dimers/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/metamaterials/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/paper/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/physics/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/association-member/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/culture/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/popularising/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/science-divulgation/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/adventofcode/</loc>
+    <lastmod>2023-01-13T09:22:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/challenge/</loc>
+    <lastmod>2023-01-13T09:22:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://enricomartello.github.io/tags/coding/</loc>
+    <lastmod>2023-01-13T09:22:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://enricomartello.github.io/tags/dynamics/</loc>
     <lastmod>2022-07-08T11:53:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -92,23 +177,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://enricomartello.github.io/tags/metamaterials/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://enricomartello.github.io/tags/non-hermitian/</loc>
     <lastmod>2022-07-08T11:53:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/numerics/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/physics/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -116,16 +191,6 @@
     <lastmod>2022-07-08T11:53:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/</loc>
-    <lastmod>2022-07-15T13:50:53+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://enricomartello.github.io/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/demo/</loc>
     <lastmod>2022-07-08T11:53:33+01:00</lastmod>
@@ -148,11 +213,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/berry-phase/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://enricomartello.github.io/tags/paper/</loc>
     <lastmod>2022-07-08T11:53:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -183,17 +243,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/arduino/</loc>
-    <lastmod>2022-07-15T13:50:53+01:00</lastmod>
+    <lastmod>2022-07-19T09:15:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/contribution/</loc>
-    <lastmod>2022-07-15T13:50:53+01:00</lastmod>
+    <lastmod>2022-07-19T09:15:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/data-visualisation/</loc>
-    <lastmod>2022-07-15T13:50:53+01:00</lastmod>
+    <lastmod>2022-07-19T09:15:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -203,7 +263,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/high-school/</loc>
-    <lastmod>2022-07-15T13:50:53+01:00</lastmod>
+    <lastmod>2022-07-19T09:15:58+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -217,11 +277,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://enricomartello.github.io/tags/science-divulgation/</loc>
-    <lastmod>2022-07-15T13:50:53+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://enricomartello.github.io/projects/</loc>
     <lastmod>2022-07-08T13:50:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -232,18 +287,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://enricomartello.github.io/tags/c&#43;&#43;/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://enricomartello.github.io/tags/ising-model/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://enricomartello.github.io/tags/proceedings/</loc>
-    <lastmod>2022-07-08T11:53:33+01:00</lastmod>
+    <lastmod>2023-04-11T16:58:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

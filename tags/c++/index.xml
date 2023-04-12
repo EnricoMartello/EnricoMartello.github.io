@@ -6,7 +6,7 @@
     <description>Recent content in C&#43;&#43; on Enrico Martello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grassmannization of the 3D Ising Model</title>
       <link>https://enricomartello.github.io/publications/paper_grassmannization/</link>
@@ -23,6 +23,15 @@
       
       <guid>https://enricomartello.github.io/publications/poster_warwick19/</guid>
       <description>From 17th to 20th of September, right before I graduated my MSc, I had the chance to take part (and help managing, together with other MSc students) the 11th Italian Quantum Information Science Conference (IQIS) organised in Catania. Here I presented the work I had carried out during my Erasmus as part of Lode Pollet&amp;rsquo;s group. At the time I presented a different version of the poster. The one you find here is a &amp;ldquo;more standalone&amp;rdquo; version, that I presented at the Theory of Condensed Matter (TCM) Meeting, held in Warwick.</description>
+    </item>
+    
+    <item>
+      <title>Advent of Code 2022</title>
+      <link>https://enricomartello.github.io/projects/creations/aoc/</link>
+      <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/projects/creations/aoc/</guid>
+      <description>Just by chance, a couple of years ago I came across the Advent of Code, and interesting project that I personally recommend to those who want to challenge themselves in doing some code-related problem solving, or who want to test/improve their knowledge of a given programming language. This year I wanted to deepen my knowledge of C++, hence the poor quality of my code. I will improve for sure!</description>
     </item>
     
   </channel>
