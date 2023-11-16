@@ -26,18 +26,9 @@
     </item>
     
     <item>
-      <title>Coexistence of stable and unstable population dynamics in a nonlinear non-Hermitian mechanical dimer</title>
-      <link>https://enricomartello.github.io/publications/paper_coexistence/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://enricomartello.github.io/publications/paper_coexistence/</guid>
-      <description>We experimentally and theoretically investigate the dynamics of Hatano-Nelson model on two sites (dimer), and then we make the non-reciprocal hoppings depend on the population imbalance between the two sites, thus introducing the non-Hermiticity in a dynamical manner. In the latter case we find that we can tune from stable to unstable population dynamics by simply changing the initial phase difference between the two sites.</description>
-    </item>
-    
-    <item>
       <title>Measuring the Adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/paper_measuring/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/publications/paper_measuring/</guid>
       <description>In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.</description>
@@ -46,10 +37,19 @@
     <item>
       <title>Synthetic Mechanical Lattices with Synthetic Interactions</title>
       <link>https://enricomartello.github.io/publications/paper_synthetic/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://enricomartello.github.io/publications/paper_synthetic/</guid>
       <description>We experimentally engineer synthetic lattice Hamiltonians in our mechanical system, with control over local site energies and loss and gain as well as control over the complex hopping between oscillators. Beyond linear terms, we experimentally demonstrate how this measurement-based feedback approach opens the window to independently introducing nonlinear interaction terms.</description>
+    </item>
+    
+    <item>
+      <title>Coexistence of stable and unstable population dynamics in a nonlinear non-Hermitian mechanical dimer</title>
+      <link>https://enricomartello.github.io/publications/paper_coexistence/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://enricomartello.github.io/publications/paper_coexistence/</guid>
+      <description>We experimentally and theoretically investigate the dynamics of Hatano-Nelson model on two sites (dimer), and then we make the non-reciprocal hoppings depend on the population imbalance between the two sites, thus introducing the non-Hermiticity in a dynamical manner. In the latter case we find that we can tune from stable to unstable population dynamics by simply changing the initial phase difference between the two sites.</description>
     </item>
     
     <item>
