@@ -4,35 +4,30 @@
     <title>C&#43;&#43; on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on Enrico Martello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 16:58:59 +0200</lastBuildDate>
+    <atom:link href="https://enricomartello.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grassmannization of the 3D Ising Model</title>
       <link>https://enricomartello.github.io/publications/paper_grassmannization/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/paper_grassmannization/</guid>
       <description>The application of Feynman’s diagrammatic technique to classical link models with local constraints seems impossible due to (i) the absence of a free Gaussian theory on top of which the perturbative expansion can be constructed, and (ii) Dyson’s collapse argument, rendering the perturbative expansion divergent. However, we show for the classical 3D Ising model how both problems can be circumvented using a Grassmann representation. This makes it possible to obtain an expansion of the spin correlation function and the magnetic susceptibility in terms of the inverse temperature in the thermodynamic limit, through which the values for the critical temperature and critical index are evaluated within 1.</description>
     </item>
-    
     <item>
       <title>Grassmannization of the 3D Ising Model</title>
       <link>https://enricomartello.github.io/publications/poster_warwick19/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/poster_warwick19/</guid>
       <description>From 17th to 20th of September, right before I graduated my MSc, I had the chance to take part (and help managing, together with other MSc students) the 11th Italian Quantum Information Science Conference (IQIS) organised in Catania. Here I presented the work I had carried out during my Erasmus as part of Lode Pollet&amp;rsquo;s group. At the time I presented a different version of the poster. The one you find here is a &amp;ldquo;more standalone&amp;rdquo; version, that I presented at the Theory of Condensed Matter (TCM) Meeting, held in Warwick.</description>
     </item>
-    
     <item>
       <title>Advent of Code 2022</title>
       <link>https://enricomartello.github.io/projects/creations/aoc/</link>
       <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/projects/creations/aoc/</guid>
       <description>Just by chance, a couple of years ago I came across the Advent of Code, and interesting project that I personally recommend to those who want to challenge themselves in doing some code-related problem solving, or who want to test/improve their knowledge of a given programming language. This year I wanted to deepen my knowledge of C++, hence the poor quality of my code. I will improve for sure!</description>
     </item>
-    
   </channel>
 </rss>

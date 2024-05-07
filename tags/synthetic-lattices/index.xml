@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Synthetic lattices on Enrico Martello</title>
+    <title>Synthetic Lattices on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/synthetic-lattices/</link>
-    <description>Recent content in Synthetic lattices on Enrico Martello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Synthetic Lattices on Enrico Martello</description>
+    <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/synthetic-lattices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 12:31:38 +0100</lastBuildDate>
+    <atom:link href="https://enricomartello.github.io/tags/synthetic-lattices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Synthetic Mechanical Lattices with Synthetic Interactions</title>
       <link>https://enricomartello.github.io/publications/paper_synthetic/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/paper_synthetic/</guid>
       <description>We experimentally engineer synthetic lattice Hamiltonians in our mechanical system, with control over local site energies and loss and gain as well as control over the complex hopping between oscillators. Beyond linear terms, we experimentally demonstrate how this measurement-based feedback approach opens the window to independently introducing nonlinear interaction terms.</description>
     </item>
-    
   </channel>
 </rss>

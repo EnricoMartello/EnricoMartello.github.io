@@ -4,18 +4,16 @@
     <title>Demo on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/demo/</link>
     <description>Recent content in Demo on Enrico Martello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 11:53:33 +0100</lastBuildDate>
+    <atom:link href="https://enricomartello.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo of Graide: AI Powered Assistive Grading Engine</title>
       <link>https://enricomartello.github.io/publications/6bit/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/6bit/</guid>
-      <description>I have been helping people at 6bit by testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback given to students. Take a look at how it works!
-I have been demo-ing at L@S2022 where the issues related to teaching and learning at scale have been discussed.</description>
+      <description>I have been helping people at 6bit by testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback given to students. Take a look at how it works!&#xA;I have been demo-ing at L@S2022 where the issues related to teaching and learning at scale have been discussed.</description>
     </item>
-    
   </channel>
 </rss>

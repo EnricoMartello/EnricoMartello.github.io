@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Berry phase on Enrico Martello</title>
+    <title>Berry Phase on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/berry-phase/</link>
-    <description>Recent content in Berry phase on Enrico Martello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Berry Phase on Enrico Martello</description>
+    <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/berry-phase/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 12:31:38 +0100</lastBuildDate>
+    <atom:link href="https://enricomartello.github.io/tags/berry-phase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring the Adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/paper_measuring/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/paper_measuring/</guid>
       <description>In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.</description>
     </item>
-    
     <item>
       <title>Measuring the adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/unict_seminar/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/unict_seminar/</guid>
-      <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!
-We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
+      <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!&#xA;We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
     </item>
-    
   </channel>
 </rss>

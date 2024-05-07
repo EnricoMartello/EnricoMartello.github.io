@@ -4,17 +4,16 @@
     <title>Pandas on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/pandas/</link>
     <description>Recent content in Pandas on Enrico Martello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jan 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 11:53:33 +0100</lastBuildDate>
+    <atom:link href="https://enricomartello.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data2map</title>
       <link>https://enricomartello.github.io/projects/creations/data2map/</link>
       <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/projects/creations/data2map/</guid>
       <description>My father one day asked me how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap? My first answer was something that sounds like I can easily write down a python script that does that for you. It was not easy! It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job!</description>
     </item>
-    
   </channel>
 </rss>

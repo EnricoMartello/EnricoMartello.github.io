@@ -4,81 +4,72 @@
     <title>Physics on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/physics/</link>
     <description>Recent content in Physics on Enrico Martello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://enricomartello.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://enricomartello.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring the Adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/paper_measuring/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/paper_measuring/</guid>
       <description>In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.</description>
     </item>
-    
     <item>
       <title>Synthetic Mechanical Lattices with Synthetic Interactions</title>
       <link>https://enricomartello.github.io/publications/paper_synthetic/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/paper_synthetic/</guid>
       <description>We experimentally engineer synthetic lattice Hamiltonians in our mechanical system, with control over local site energies and loss and gain as well as control over the complex hopping between oscillators. Beyond linear terms, we experimentally demonstrate how this measurement-based feedback approach opens the window to independently introducing nonlinear interaction terms.</description>
     </item>
-    
     <item>
       <title>Coexistence of stable and unstable population dynamics in a nonlinear non-Hermitian mechanical dimer</title>
       <link>https://enricomartello.github.io/publications/paper_coexistence/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/paper_coexistence/</guid>
       <description>We experimentally and theoretically investigate the dynamics of Hatano-Nelson model on two sites (dimer), and then we make the non-reciprocal hoppings depend on the population imbalance between the two sites, thus introducing the non-Hermiticity in a dynamical manner. In the latter case we find that we can tune from stable to unstable population dynamics by simply changing the initial phase difference between the two sites.</description>
     </item>
-    
     <item>
       <title>Grassmannization of the 3D Ising Model</title>
       <link>https://enricomartello.github.io/publications/paper_grassmannization/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/paper_grassmannization/</guid>
       <description>The application of Feynman’s diagrammatic technique to classical link models with local constraints seems impossible due to (i) the absence of a free Gaussian theory on top of which the perturbative expansion can be constructed, and (ii) Dyson’s collapse argument, rendering the perturbative expansion divergent. However, we show for the classical 3D Ising model how both problems can be circumvented using a Grassmann representation. This makes it possible to obtain an expansion of the spin correlation function and the magnetic susceptibility in terms of the inverse temperature in the thermodynamic limit, through which the values for the critical temperature and critical index are evaluated within 1.</description>
     </item>
-    
     <item>
       <title>Measuring the adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/unict_seminar/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/unict_seminar/</guid>
-      <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!
-We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
+      <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!&#xA;We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
     </item>
-    
+    <item>
+      <title>Exploring hybrid organic-metallic Perovskite thin films deposition for High-Efficiency Solar Cells through Numerical Simulations</title>
+      <link>https://enricomartello.github.io/publications/poster_eurosime/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://enricomartello.github.io/publications/poster_eurosime/</guid>
+      <description>I presented the results of my semester-long experience at the CNR at 25th EuroSimE, a conference mainly involved in simulations and experiments for microelectronics and microsystems. The focus of this work was on simulating the deposition of a metal-organic perovskite on a substrate, in order to understand the role of the many experimental parameters involved in the innovative deposition technique described in this work.&#xA;Although we did not manage to present a paper, but the poster won the &amp;ldquo;Outstanding poster award&amp;rdquo;, by participants&amp;rsquo; vote.</description>
+    </item>
     <item>
       <title>Measuring the Adiabatic non-Hermitian Berry Phase in Feedback-Coupled Harmonic Oscillators</title>
       <link>https://enricomartello.github.io/publications/poster_warwick22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/poster_warwick22/</guid>
       <description>For the first time since I began my PhD, I was able to spend more time traveling for conferences. In particular, I presented this poster at the Theory of Condensed Matter (TCM) Meeting, at the University of Warwick, then a few weeks later I took part to the conference on Condensed Matter and Quantum Materials (CMQM) organised by the Institute of Physics (IoP) at the University of Bath, and finally I have presented it at the University of Strathclyde, Glasgow, for the conference on Designing Out of Eequilibrium many-body Quantum systems (DesOEQ).</description>
     </item>
-    
     <item>
       <title>Synthetic Mechanical Metamaterials for non-Hermitian Hamiltonians </title>
       <link>https://enricomartello.github.io/publications/poster_warwick21/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/poster_warwick21/</guid>
       <description>I presented this poster at the Theory of Condensed Matter (TCM) Meeting, held in Warwick. For more details about this work, take a look at the paper. As it is a large file, it might take some time to download it - be patient :)</description>
     </item>
-    
     <item>
       <title>Grassmannization of the 3D Ising Model</title>
       <link>https://enricomartello.github.io/publications/poster_warwick19/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://enricomartello.github.io/publications/poster_warwick19/</guid>
       <description>From 17th to 20th of September, right before I graduated my MSc, I had the chance to take part (and help managing, together with other MSc students) the 11th Italian Quantum Information Science Conference (IQIS) organised in Catania. Here I presented the work I had carried out during my Erasmus as part of Lode Pollet&amp;rsquo;s group. At the time I presented a different version of the poster. The one you find here is a &amp;ldquo;more standalone&amp;rdquo; version, that I presented at the Theory of Condensed Matter (TCM) Meeting, held in Warwick.</description>
     </item>
-    
   </channel>
 </rss>
