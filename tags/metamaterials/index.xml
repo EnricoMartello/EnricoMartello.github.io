@@ -4,7 +4,7 @@
     <title>Metamaterials on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/metamaterials/</link>
     <description>Recent content in Metamaterials on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Nov 2023 12:31:38 +0100</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/metamaterials/index.xml" rel="self" type="application/rss+xml" />
@@ -13,42 +13,42 @@
       <link>https://enricomartello.github.io/publications/paper_measuring/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/paper_measuring/</guid>
-      <description>In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.</description>
+      <description>&lt;p&gt;In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Synthetic Mechanical Lattices with Synthetic Interactions</title>
       <link>https://enricomartello.github.io/publications/paper_synthetic/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/paper_synthetic/</guid>
-      <description>We experimentally engineer synthetic lattice Hamiltonians in our mechanical system, with control over local site energies and loss and gain as well as control over the complex hopping between oscillators. Beyond linear terms, we experimentally demonstrate how this measurement-based feedback approach opens the window to independently introducing nonlinear interaction terms.</description>
+      <description>&lt;p&gt;We experimentally engineer synthetic lattice Hamiltonians in our mechanical system, with control over local site energies and loss and gain as well as control over the complex hopping between oscillators. Beyond linear terms, we experimentally demonstrate how this measurement-based feedback approach opens the window to independently introducing nonlinear interaction terms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coexistence of stable and unstable population dynamics in a nonlinear non-Hermitian mechanical dimer</title>
       <link>https://enricomartello.github.io/publications/paper_coexistence/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/paper_coexistence/</guid>
-      <description>We experimentally and theoretically investigate the dynamics of Hatano-Nelson model on two sites (dimer), and then we make the non-reciprocal hoppings depend on the population imbalance between the two sites, thus introducing the non-Hermiticity in a dynamical manner. In the latter case we find that we can tune from stable to unstable population dynamics by simply changing the initial phase difference between the two sites.</description>
+      <description>&lt;p&gt;We experimentally and theoretically investigate the dynamics of Hatano-Nelson model on two sites (dimer), and then we make the non-reciprocal hoppings depend on the population imbalance between the two sites, thus introducing the non-Hermiticity in a dynamical manner. In the latter case we find that we can tune from stable to unstable population dynamics by simply changing the initial phase difference between the two sites.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Measuring the adiabatic Non-Hermitian Berry Phase in Feedback-Coupled Oscillators</title>
       <link>https://enricomartello.github.io/publications/unict_seminar/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/unict_seminar/</guid>
-      <description>In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!&#xA;We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.</description>
+      <description>&lt;p&gt;In this talk I presented our most recent work at the University of Catania. It was the first time I ever presented my work!&lt;/p&gt;&#xA;&lt;p&gt;We measured for the first time the Berry phase in the case of a non-Hermitian Hamiltonian using a mechanical metamaterial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Measuring the Adiabatic non-Hermitian Berry Phase in Feedback-Coupled Harmonic Oscillators</title>
       <link>https://enricomartello.github.io/publications/poster_warwick22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/poster_warwick22/</guid>
-      <description>For the first time since I began my PhD, I was able to spend more time traveling for conferences. In particular, I presented this poster at the Theory of Condensed Matter (TCM) Meeting, at the University of Warwick, then a few weeks later I took part to the conference on Condensed Matter and Quantum Materials (CMQM) organised by the Institute of Physics (IoP) at the University of Bath, and finally I have presented it at the University of Strathclyde, Glasgow, for the conference on Designing Out of Eequilibrium many-body Quantum systems (DesOEQ).</description>
+      <description>&lt;p&gt;For the first time since I began my PhD, I was able to spend more time traveling for conferences. In particular, I presented this poster at the &lt;a href=&#34;https://warwick.ac.uk/fac/sci/physics/research/theory/events/iop2022/&#34;&gt;Theory of Condensed Matter (TCM) Meeting&lt;/a&gt;, at the University of Warwick, then a few weeks later I took part to the conference on &lt;a href=&#34;http://cmqm2022.iopconfs.org/home&#34;&gt;Condensed Matter and Quantum Materials (CMQM)&lt;/a&gt; organised by the Institute of Physics (IoP) at the University of Bath, and finally I have presented it at the University of Strathclyde, Glasgow, for the conference on &lt;a href=&#34;https://desoeq.phys.strath.ac.uk/desoeqqsum22/&#34;&gt;Designing Out of Eequilibrium many-body Quantum systems (DesOEQ)&lt;/a&gt;. &lt;br&gt;&#xA;For more details about this work, &lt;a href=&#34;https://arxiv.org/abs/2205.02700&#34;&gt;take a look at the paper&lt;/a&gt;. &lt;br&gt;&#xA;&lt;br&gt;&#xA;As it is a large file, it might take some time to download it - be patient :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Synthetic Mechanical Metamaterials for non-Hermitian Hamiltonians </title>
       <link>https://enricomartello.github.io/publications/poster_warwick21/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/poster_warwick21/</guid>
-      <description>I presented this poster at the Theory of Condensed Matter (TCM) Meeting, held in Warwick. For more details about this work, take a look at the paper. As it is a large file, it might take some time to download it - be patient :)</description>
+      <description>&lt;p&gt;I presented this poster at the &lt;a href=&#34;https://warwick.ac.uk/fac/sci/physics/research/theory/events/iop2021/&#34;&gt;Theory of Condensed Matter (TCM) Meeting&lt;/a&gt;, held in Warwick. &lt;br&gt;&#xA;For more details about this work, &lt;a href=&#34;https://arxiv.org/abs/2107.09649&#34;&gt;take a look at the paper&lt;/a&gt;. &lt;br&gt;&#xA;&lt;br&gt;&#xA;As it is a large file, it might take some time to download it - be patient :)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Learning at Scale on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/learning-at-scale/</link>
     <description>Recent content in Learning at Scale on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jul 2022 11:53:33 +0100</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/learning-at-scale/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://enricomartello.github.io/publications/6bit/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/6bit/</guid>
-      <description>I have been helping people at 6bit by testing and adding new features to Graide, a platform that reduces grading workload while increasing the quality of feedback given to students. Take a look at how it works!&#xA;I have been demo-ing at L@S2022 where the issues related to teaching and learning at scale have been discussed.</description>
+      <description>&lt;p&gt;I have been helping people at 6bit by testing and adding new features to &lt;a href=&#34;https://www.graide.co.uk/&#34;&gt;Graide&lt;/a&gt;, a platform that reduces grading workload while increasing the quality of feedback given to students. Take a look at &lt;a href=&#34;https://www.youtube.com/watch?v=Z9nVtXLrrZM&amp;amp;ab_channel=Graide-TheAssessment%26FeedbackPlatform&#34;&gt;how it works&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;I have been demo-ing at &lt;a href=&#34;https://learningatscale.acm.org/las2022/&#34;&gt;L@S2022&lt;/a&gt; where the issues related to teaching and learning at scale have been discussed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Data Visualisation on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/data-visualisation/</link>
     <description>Recent content in Data Visualisation on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Apr 2023 17:25:46 +0200</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://enricomartello.github.io/projects/contributions/eps/</link>
       <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/projects/contributions/eps/</guid>
-      <description>I collaborated with the EPS Young Minds section Catania in their project involving High School students and Arduino. The goal of the project was to build a network of sensors able to track down pollution levels in different areas of the city, in order to sensitize young people awareness of the problem of pollution, teach them how do sensors work and how do tracking and measuring work.</description>
+      <description>&lt;p&gt;I collaborated with the &lt;a href=&#34;https://www.facebook.com/epsyoungmindscatania/&#34;&gt;EPS Young Minds section Catania&lt;/a&gt; in their project involving High School students and Arduino. &lt;br&gt;&#xA;The goal of the project was to build a network of sensors able to track down pollution levels in different areas of the city, in order to sensitize young people awareness of the problem of pollution, teach them how do sensors work and how do tracking and measuring work.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://enricomartello.github.io/img/eps_smt.jpeg&#34;&gt;&lt;img src=&#34;https://enricomartello.github.io/img/eps_smt.jpeg&#34; width=&#34;60%&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data2map</title>
       <link>https://enricomartello.github.io/projects/creations/data2map/</link>
       <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/projects/creations/data2map/</guid>
-      <description>My father one day asked me how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap? My first answer was something that sounds like I can easily write down a python script that does that for you. It was not easy! It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job!</description>
+      <description>&lt;p&gt;My father one day asked me &lt;em&gt;how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap?&lt;/em&gt; &lt;br&gt;&#xA;My first answer was something that sounds like &lt;em&gt;I can easily write down a python script that does that for you.&lt;/em&gt; It was not easy! &lt;br&gt;&#xA;It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job! My first project that started from zero, and solves a &lt;strong&gt;real-life&lt;/strong&gt; problem: this software takes the data written in an Excel file, and then plots it on a floor-map. Check it out for more details!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Dimers on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/dimers/</link>
     <description>Recent content in Dimers on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Nov 2023 12:31:38 +0100</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/dimers/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://enricomartello.github.io/publications/paper_coexistence/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/paper_coexistence/</guid>
-      <description>We experimentally and theoretically investigate the dynamics of Hatano-Nelson model on two sites (dimer), and then we make the non-reciprocal hoppings depend on the population imbalance between the two sites, thus introducing the non-Hermiticity in a dynamical manner. In the latter case we find that we can tune from stable to unstable population dynamics by simply changing the initial phase difference between the two sites.</description>
+      <description>&lt;p&gt;We experimentally and theoretically investigate the dynamics of Hatano-Nelson model on two sites (dimer), and then we make the non-reciprocal hoppings depend on the population imbalance between the two sites, thus introducing the non-Hermiticity in a dynamical manner. In the latter case we find that we can tune from stable to unstable population dynamics by simply changing the initial phase difference between the two sites.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

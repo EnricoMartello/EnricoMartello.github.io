@@ -4,16 +4,16 @@
     <title>FEniCS on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/fenics/</link>
     <description>Recent content in FEniCS on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:14:40 +0200</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/fenics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring hybrid organic-metallic Perovskite thin films deposition for High-Efficiency Solar Cells through Numerical Simulations</title>
       <link>https://enricomartello.github.io/publications/poster_eurosime/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/poster_eurosime/</guid>
-      <description>I presented the results of my semester-long experience at the CNR at 25th EuroSimE, a conference mainly involved in simulations and experiments for microelectronics and microsystems. The focus of this work was on simulating the deposition of a metal-organic perovskite on a substrate, in order to understand the role of the many experimental parameters involved in the innovative deposition technique described in this work.&#xA;Although we did not manage to present a paper, but the poster won the &amp;ldquo;Outstanding poster award&amp;rdquo;, by participants&amp;rsquo; vote.</description>
+      <description>&lt;p&gt;I presented the results of my semester-long experience at the CNR at &lt;a href=&#34;https://www.eurosime.org&#34;&gt;25th EuroSimE&lt;/a&gt;, a conference mainly involved in simulations and experiments for microelectronics and microsystems. The focus of this work was on simulating the deposition of a metal-organic perovskite on a substrate, in order to understand the role of the many experimental parameters involved in the innovative deposition technique described &lt;a href=&#34;https://doi.org/10.1039/D1TA02535J&#34;&gt;in this work&lt;/a&gt;.&lt;br&gt;&#xA;Although we did not manage to present a paper, but the poster won the &amp;ldquo;&lt;a href=&#34;https://www.eurosime.org/index.php/awards/&#34;&gt;Outstanding poster award&lt;/a&gt;&amp;rdquo;, by participants&amp;rsquo; vote.&lt;br&gt;&#xA;&lt;br&gt;&#xA;As it is a large file, it might take some time to download it - be patient :)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

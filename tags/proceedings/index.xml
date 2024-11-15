@@ -4,7 +4,7 @@
     <title>Proceedings on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/proceedings/</link>
     <description>Recent content in Proceedings on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Apr 2023 16:58:59 +0200</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/proceedings/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://enricomartello.github.io/publications/paper_grassmannization/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/paper_grassmannization/</guid>
-      <description>The application of Feynman’s diagrammatic technique to classical link models with local constraints seems impossible due to (i) the absence of a free Gaussian theory on top of which the perturbative expansion can be constructed, and (ii) Dyson’s collapse argument, rendering the perturbative expansion divergent. However, we show for the classical 3D Ising model how both problems can be circumvented using a Grassmann representation. This makes it possible to obtain an expansion of the spin correlation function and the magnetic susceptibility in terms of the inverse temperature in the thermodynamic limit, through which the values for the critical temperature and critical index are evaluated within 1.</description>
+      <description>&lt;p&gt;The application of Feynman’s diagrammatic technique to classical link models with local constraints seems impossible due to (i) the absence of a free Gaussian theory on top of which the perturbative expansion can be constructed, and (ii) Dyson’s collapse argument, rendering the perturbative expansion divergent. However, we show for the classical 3D Ising model how both problems can be circumvented using a Grassmann representation. This makes it possible to obtain an expansion of the spin correlation function and the magnetic susceptibility in terms of the inverse temperature in the thermodynamic limit, through which the values for the critical temperature and critical index are evaluated within 1.6% and 5.4% of their accepted values, respectively. Our work is a straightforward adaptation of the theory previously developed in an earlier paper.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>AdventOfCode on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/adventofcode/</link>
     <description>Recent content in AdventOfCode on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jan 2023 09:22:16 +0100</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/adventofcode/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://enricomartello.github.io/projects/creations/aoc/</link>
       <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/projects/creations/aoc/</guid>
-      <description>Just by chance, a couple of years ago I came across the Advent of Code, and interesting project that I personally recommend to those who want to challenge themselves in doing some code-related problem solving, or who want to test/improve their knowledge of a given programming language. This year I wanted to deepen my knowledge of C++, hence the poor quality of my code. I will improve for sure!</description>
+      <description>&lt;p&gt;Just by chance, a couple of years ago I came across the &lt;a href=&#34;https://adventofcode.com&#34;&gt;Advent of Code&lt;/a&gt;, and interesting project that I personally recommend to those who want to challenge themselves in doing some code-related problem solving, or who want to test/improve their knowledge of a given programming language. This year I wanted to deepen my knowledge of C++, hence the poor quality of my code. I will improve for sure!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://enricomartello.github.io/img/aoc22.jpeg&#34;&gt;&lt;img src=&#34;https://enricomartello.github.io/img/aoc22.jpeg&#34; width=&#34;100%&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

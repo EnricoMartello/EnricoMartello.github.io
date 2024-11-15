@@ -4,7 +4,7 @@
     <title>Gnuplot on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/gnuplot/</link>
     <description>Recent content in Gnuplot on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Nov 2023 12:31:38 +0100</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/gnuplot/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,21 @@
       <link>https://enricomartello.github.io/publications/paper_measuring/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/paper_measuring/</guid>
-      <description>In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.</description>
+      <description>&lt;p&gt;In this work we verify experimentally that the adiabatic non-Hermitian Berry phase is a purely geometrical effect that leads to significant amplification and damping of the amplitude also for non-cyclical paths within the parameter space even when all eigenenergies are real. We further observe a non-Hermitian analog of the Aharonov&amp;ndash;Bohm solenoid effect.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Measuring the Adiabatic non-Hermitian Berry Phase in Feedback-Coupled Harmonic Oscillators</title>
       <link>https://enricomartello.github.io/publications/poster_warwick22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/poster_warwick22/</guid>
-      <description>For the first time since I began my PhD, I was able to spend more time traveling for conferences. In particular, I presented this poster at the Theory of Condensed Matter (TCM) Meeting, at the University of Warwick, then a few weeks later I took part to the conference on Condensed Matter and Quantum Materials (CMQM) organised by the Institute of Physics (IoP) at the University of Bath, and finally I have presented it at the University of Strathclyde, Glasgow, for the conference on Designing Out of Eequilibrium many-body Quantum systems (DesOEQ).</description>
+      <description>&lt;p&gt;For the first time since I began my PhD, I was able to spend more time traveling for conferences. In particular, I presented this poster at the &lt;a href=&#34;https://warwick.ac.uk/fac/sci/physics/research/theory/events/iop2022/&#34;&gt;Theory of Condensed Matter (TCM) Meeting&lt;/a&gt;, at the University of Warwick, then a few weeks later I took part to the conference on &lt;a href=&#34;http://cmqm2022.iopconfs.org/home&#34;&gt;Condensed Matter and Quantum Materials (CMQM)&lt;/a&gt; organised by the Institute of Physics (IoP) at the University of Bath, and finally I have presented it at the University of Strathclyde, Glasgow, for the conference on &lt;a href=&#34;https://desoeq.phys.strath.ac.uk/desoeqqsum22/&#34;&gt;Designing Out of Eequilibrium many-body Quantum systems (DesOEQ)&lt;/a&gt;. &lt;br&gt;&#xA;For more details about this work, &lt;a href=&#34;https://arxiv.org/abs/2205.02700&#34;&gt;take a look at the paper&lt;/a&gt;. &lt;br&gt;&#xA;&lt;br&gt;&#xA;As it is a large file, it might take some time to download it - be patient :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Grassmannization of the 3D Ising Model</title>
       <link>https://enricomartello.github.io/publications/poster_warwick19/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/poster_warwick19/</guid>
-      <description>From 17th to 20th of September, right before I graduated my MSc, I had the chance to take part (and help managing, together with other MSc students) the 11th Italian Quantum Information Science Conference (IQIS) organised in Catania. Here I presented the work I had carried out during my Erasmus as part of Lode Pollet&amp;rsquo;s group. At the time I presented a different version of the poster. The one you find here is a &amp;ldquo;more standalone&amp;rdquo; version, that I presented at the Theory of Condensed Matter (TCM) Meeting, held in Warwick.</description>
+      <description>&lt;p&gt;From 17th to 20th of September, right before I graduated my MSc, I had the chance to take part (and help managing, together with other MSc students) the &lt;a href=&#34;http://www.iqis2018.imm.cnr.it/&#34;&gt;11th Italian Quantum Information Science Conference (IQIS)&lt;/a&gt; organised in Catania. Here I presented the work I had carried out during my Erasmus as part of &lt;a href=&#34;https://www.theorie.physik.uni-muenchen.de/lsschollwoeck/members/professors/pollet/&#34;&gt;Lode Pollet&amp;rsquo;s group&lt;/a&gt;. At the time I presented a different version of the poster. The one you find here is a &amp;ldquo;more standalone&amp;rdquo; version, that I presented at the &lt;a href=&#34;https://warwick.ac.uk/fac/sci/physics/research/theory/events/iop2019/&#34;&gt;Theory of Condensed Matter (TCM) Meeting&lt;/a&gt;, held in Warwick. &lt;br&gt;&#xA;For more details about this work, &lt;a href=&#34;https://www.mdpi.com/2504-3900/12/1/20&#34;&gt;take a look at the paper&lt;/a&gt;. &lt;br&gt;&#xA;&lt;br&gt;&#xA;As it is a large file, it might take some time to download it - be patient :)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,30 +4,30 @@
     <title>Python on Enrico Martello</title>
     <link>https://enricomartello.github.io/tags/python/</link>
     <description>Recent content in Python on Enrico Martello</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:14:40 +0200</lastBuildDate>
     <atom:link href="https://enricomartello.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring hybrid organic-metallic Perovskite thin films deposition for High-Efficiency Solar Cells through Numerical Simulations</title>
       <link>https://enricomartello.github.io/publications/poster_eurosime/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/publications/poster_eurosime/</guid>
-      <description>I presented the results of my semester-long experience at the CNR at 25th EuroSimE, a conference mainly involved in simulations and experiments for microelectronics and microsystems. The focus of this work was on simulating the deposition of a metal-organic perovskite on a substrate, in order to understand the role of the many experimental parameters involved in the innovative deposition technique described in this work.&#xA;Although we did not manage to present a paper, but the poster won the &amp;ldquo;Outstanding poster award&amp;rdquo;, by participants&amp;rsquo; vote.</description>
+      <description>&lt;p&gt;I presented the results of my semester-long experience at the CNR at &lt;a href=&#34;https://www.eurosime.org&#34;&gt;25th EuroSimE&lt;/a&gt;, a conference mainly involved in simulations and experiments for microelectronics and microsystems. The focus of this work was on simulating the deposition of a metal-organic perovskite on a substrate, in order to understand the role of the many experimental parameters involved in the innovative deposition technique described &lt;a href=&#34;https://doi.org/10.1039/D1TA02535J&#34;&gt;in this work&lt;/a&gt;.&lt;br&gt;&#xA;Although we did not manage to present a paper, but the poster won the &amp;ldquo;&lt;a href=&#34;https://www.eurosime.org/index.php/awards/&#34;&gt;Outstanding poster award&lt;/a&gt;&amp;rdquo;, by participants&amp;rsquo; vote.&lt;br&gt;&#xA;&lt;br&gt;&#xA;As it is a large file, it might take some time to download it - be patient :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data2map</title>
       <link>https://enricomartello.github.io/projects/creations/data2map/</link>
       <pubDate>Sun, 16 Jan 2022 12:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/projects/creations/data2map/</guid>
-      <description>My father one day asked me how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap? My first answer was something that sounds like I can easily write down a python script that does that for you. It was not easy! It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job!</description>
+      <description>&lt;p&gt;My father one day asked me &lt;em&gt;how could I plot lighting in an office or noise in a working environment as a heatmap on top of a floormap?&lt;/em&gt; &lt;br&gt;&#xA;My first answer was something that sounds like &lt;em&gt;I can easily write down a python script that does that for you.&lt;/em&gt; It was not easy! &lt;br&gt;&#xA;It took me some days to figure out the best way to do it, and probably my approach is not the best, but it does the job! My first project that started from zero, and solves a &lt;strong&gt;real-life&lt;/strong&gt; problem: this software takes the data written in an Excel file, and then plots it on a floor-map. Check it out for more details!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Whale recognition</title>
       <link>https://enricomartello.github.io/projects/creations/ml_whale/</link>
       <pubDate>Wed, 23 Mar 2022 12:00:00 +0000</pubDate>
       <guid>https://enricomartello.github.io/projects/creations/ml_whale/</guid>
-      <description>This was the final exam of the MPAGS Machine Learning course (access the 2021-2022 course pages to see the statement of my assessment being submitted - and passed). I was inspired by this Kaggle competition, and I decided to try and create a Machine Learning algorithm capable of identifying marine mammals just by a picture of the dorsal fin. Since I am a beginner (or at least I was at the time), I used this dataset, that consists of the already resized and rotated images of the original dataset (hence it is supposedly easier to work with it).</description>
+      <description>&lt;p&gt;This was the final exam of the &lt;a href=&#34;https://warwick.ac.uk/fac/sci/physics/mpags/modules/comp/machinelearning/&#34;&gt;MPAGS Machine Learning course&lt;/a&gt; (access the 2021-2022 course pages to see the statement of my assessment being submitted - and passed). I was inspired by &lt;a href=&#34;https://www.kaggle.com/c/happy-whale-and-dolphin/data&#34;&gt;this Kaggle competition&lt;/a&gt;, and I decided to try and create a Machine Learning algorithm capable of identifying marine mammals just by a picture of the dorsal fin. Since I am a beginner (or at least I was at the time), I used &lt;a href=&#34;https://www.kaggle.com/datasets/bdsaglam/happy-whale-512?select=sample_submission.csv&#34;&gt;this dataset&lt;/a&gt;, that consists of the already resized and rotated images of the original dataset (hence it is supposedly easier to work with it).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
